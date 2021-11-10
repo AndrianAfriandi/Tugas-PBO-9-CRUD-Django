@@ -1,1 +1,1 @@
-# Tugas-PBO-9-CRUD-Jango
+# Tugas-PBO-9-CRUD-Django
